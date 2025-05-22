@@ -1,6 +1,6 @@
 public class Alison {
     public static void main(String[] args) {
-        String baile = "jazz";
+        String baile = "ballet";
 
         if (baile.equals("ballet")) {
             System.out.println("Te gusta el ballet, ¡qué elegancia y control!");
